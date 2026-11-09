@@ -10,8 +10,8 @@ A farmer-support NGO sends SMS planting advice to farmers in five Kenyan countie
 4. Choose **Restart kernel and run all cells** (Colab: Runtime > Restart and run all). The notebook recreates `rainfall_summary.csv` in the same folder.
 
 ## Planting Advisory
-- Farmers in Nairobi, Nakuru, Kisumu and Mombasa should prepare land in March and plant at the start of the April–May rains, the wettest two-month window in all four counties.
-- Machakos farmers should plan around the November–December short rains (278 mm) and use drought-tolerant crops and water harvesting, since it is the driest county with six dry months.
+- Farmers in Nairobi, Nakuru, Kisumu and Mombasa should prepare land in March and plant at the start of the April-May rains, the wettest two-month window in all four counties.
+- Machakos farmers should plan around the November-December short rains (278 mm) and use drought-tolerant crops and water harvesting, since it is the driest county with six dry months.
 - Machakos April and September readings were missing and estimated at 68 mm, so Machakos figures are less certain and advice should be checked against local forecasts.
 
 ## Files
